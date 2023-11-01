@@ -3,8 +3,8 @@ import time
 
 
 # **Variaveis**
-caminho = r"C:\Users\jonas.almeida\SEB - Sistema Educacional Brasileiro\CORPORATIVO SEB - Informações Gerenciais Finanças - Documentos\3.Business_Intelligence\BI_Resultado\Bases\Facts\2023\fRealizado"
-nomeArquivo = "\_DataFlow base atualização.xlsx"
+caminho = "Caminho\\Arquivo"
+nomeArquivo = "NomeExcel.xlsx"
 
 
 # **Abrindo Excel**
